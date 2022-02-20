@@ -1,0 +1,29 @@
+commit d29b186e65bd199e34544bf020b264c3da8a45af
+Author: Syed Mohib Raza <razamohib01@gmail.com>
+Date:   Fri Jan 28 13:56:54 2022 +0000
+
+    Report finalized
+
+commit c1003797d8270411d8c7c00c57ff707f4b6e12e0
+Author: Syed Mohib Raza <razamohib01@gmail.com>
+Date:   Fri Jan 28 00:25:47 2022 +0000
+
+    Weights added, Resnet 50
+
+commit 642c3d275c8c6816866d3add4350592f10e0fdb8
+Author: Syed Mohib Raza <razamohib01@gmail.com>
+Date:   Tue Jan 25 22:06:30 2022 +0000
+
+    VGG16 Arch. || Accuracy-78 with augmentation
+
+commit 441971f0f0bb00968e59c41dc76c4775ba383a87
+Author: Syed Mohib Raza <razamohib01@gmail.com>
+Date:   Tue Jan 25 03:16:20 2022 +0000
+
+    VGG16 Arch. || Accuracy-81 without augmentation
+
+commit e04e80ee0e2aca53bdbe618ec9647d24e33d6e3f
+Author: Syed Mohib Raza <razamohib01@gmail.com>
+Date:   Mon Jan 24 02:40:03 2022 +0000
+
+    Project setup with eda and pre-processing
